@@ -18,4 +18,4 @@ Tokenizer -> GloVE embedings -> CNN 3 layers / LSTM-CNN 3 layers -> Ensemble
 The highest accuracy score achieved is 0,692. 
 
 # Authors
-Artem Razdyakonov
+Artem Razdyakonov S42012
