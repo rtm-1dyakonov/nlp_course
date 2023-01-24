@@ -6,5 +6,9 @@ Wikipedia Movie Plots link: https://www.kaggle.com/datasets/jrobischon/wikipedia
 
 News Category Dataset link: https://huggingface.co/datasets/khalidalt/HuffPost/blob/main/News_Category_Dataset_v2.json
 
-# Analysis
+# Research
 All stages of the work are outlined in *Movie genre prediction (comedy and drama) by its synopsis.pdf*. Python notebook *nlp_course_code.ipynb* includes data preprocessing, models' architectures and final outcomes. 
+
+# Models
+Tokenizer -> GloVE embedings -> CNN 3 layers / LSTM-CNN 3 layers -> Ensemble
+
