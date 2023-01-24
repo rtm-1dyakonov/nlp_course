@@ -1,5 +1,5 @@
 # Movie Genre Prediction by Its Synopsis
-This document is the report for NLP course project and will provide you insights about different ways to classify movies as either comedies or dramas based on their synopsis
+This document is the report for NLP course project and will provide you insights about different ways to classify movies as either comedies or dramas based on their synopsis.
 
 # Datasets
 Wikipedia Movie Plots link: https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots
