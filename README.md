@@ -12,3 +12,5 @@ All stages of the work are outlined in *Movie genre prediction (comedy and drama
 # Models
 Tokenizer -> GloVE embedings -> CNN 3 layers / LSTM-CNN 3 layers -> Ensemble
 
+# Metrics
+The highest accuracy score achieved is 0,692. 
